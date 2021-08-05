@@ -2,7 +2,11 @@
   "products": [
     {
       "id": 1,
-      "description": "hello"
+      "description": "Coffee",
+      "price": 150.00,
+      "sku": 123456,
+      "color": "red"
+      "brand": "Nescafé"
     }
   ]
 }
