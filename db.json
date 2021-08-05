@@ -5,7 +5,7 @@
       "description": "Coffee",
       "price": 150.00,
       "sku": 123456,
-      "color": "red"
+      "color": "red",
       "brand": "Nescafé"
     }
   ]
